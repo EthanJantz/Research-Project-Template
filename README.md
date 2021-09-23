@@ -14,7 +14,7 @@ The root folder is where all project files and folders are located. Main project
 
 * The main project files. These files take the data and scripts to generate output. For example, a main project `.Mxd` file would wrangle and analyse shapefiles and CSV files from the data folder to generate a map using ArcGIS; or a `.R` file would utilize helper scripts from the scripts folder to wrangle, visualize, and analyze data to generate a report. Generally there will only be one main project file, but depending on what software tools are used in the project there may be more. 
 
-* For Git projects, `.gitignore` and `.git` files.
+* For Git projects, `.gitignore`, `.gitattribute`, and `.git` files.
 
 ## Info Folder
 
