@@ -1,4 +1,4 @@
-# Voorhees Project Management Template
+# Research Project Management Template
 
 This template provides a general structure for research projects done within the Voorhees Center. The following sections will explain how and why this structure is defined and provide best practices for keeping projects organized. By following this structure newcomers will be better able to get acquainted with ongoing projects and finished projects will be archived in a way that ensures future access to data and methods.
 
@@ -56,7 +56,7 @@ The Output folder is located within the root folder, and in the template is labe
 
 The following are recommendations on best practices when managing and organizing a research project.
 
-* Keep folders as shallow as possible, if someone accessing your data needs to go through 10 subfolders to find a file you may want to consider reorganizing your Data folder. Using this template it is recommended to keep data organized by source, so within a given data folder there will likely only be two subfolders. For example, raw census data may be kept in `02_Data/Raw/Census/ACS_5yr_2019_DP02.csv`. Spatial data should be labelled as such, so census tract shapefiles would be located within `02_Data/Raw/Spatial/Census/tracts.shp`. Keeping folders concise and descriptive makes it easier to understand data sources in the main project file.
+* Keep folders as shallow as possible, if someone accessing your data needs to go through 10 subfolders to find a file you may want to consider reorganizing your Data folder. Using this template it is recommended to keep data organized by source, so within a given data folder there will likely only be two subfolders. For example, raw census data may be kept in `02_Data/Raw/Census/ACS_5yr_2019_DP02.csv`. Spatial data should be labelled as such, so census tract shapefiles would be located within `02_Data/Raw/Census/Spatial/tracts.shp`. Keeping folders concise and descriptive makes it easier to understand data sources in the main project file.
 
 * Use concise, descriptive file names. Avoid creating a series of updates such that your final file is named `output_final_FINALFINAL_FINALFORREAL.jpeg`. If a situation comes up where version control is necessary it is recommended to use Box or, more preferrably, GitHub to handle this for you.
 
