@@ -1,6 +1,6 @@
 # Research Project Management Template
 
-This template provides a general structure for research projects done within the Voorhees Center. The following sections will explain how and why this structure is defined and provide best practices for keeping projects organized. By following this structure newcomers will be better able to get acquainted with ongoing projects and finished projects will be archived in a way that ensures future access to data and methods.
+This template provides a general structure for research projects. The following sections will explain how and why this structure is defined and provide best practices for keeping projects organized. By following this structure researchers will be better able to get acquainted with ongoing projects and finished projects will be archived in a way that ensures future access to data and methods. This template was developed as a tool to help maintain continuity within an organizational research context, but has been used in many personal projects as well.
 
 ## Project Structure
 
